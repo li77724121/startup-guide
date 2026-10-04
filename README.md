@@ -1,6 +1,6 @@
-# LEO 一人公司起步指南
+# LEO 起步指南
 
-从 0 到 1 的独立开发者 / 一人公司起步指南。4 步路线 + 精选资源。
+从 0 到 1 的独立开发者起步指南。4 步路线 + 精选资源。
 
 - 主站（GitHub Pages）: https://li77724121.github.io/startup-guide/
 - 自定义域名: https://leoai.kdns.fr
